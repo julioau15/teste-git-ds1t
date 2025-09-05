@@ -9,3 +9,10 @@
     height: 200px;
     background-color: tomato;
 }
+
+.circulo{
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    border-radius: 50%;
+}
